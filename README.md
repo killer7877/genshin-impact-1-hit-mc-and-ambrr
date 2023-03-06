@@ -1,2 +1,2 @@
-# genshin-impact-1-hit-mc-and-ambrr
-mc - main character
+# Тут я выпускаю читы для Genshin Impact
+Так это всё я сам написал
