@@ -1,0 +1,6 @@
+gg.setRanges(gg.REGION_ANONYMOUS)
+	gg.searchNumber("3;1.54142831e-43~1.80958413e-43;0;2::70", gg.TYPE_FLOAT)
+	gg.refineNumber("3;2::70", gg.TYPE_FLOAT)
+	loot50 = gg.getResults(1000)
+	gg.editAll("50", gg.TYPE_FLOAT)
+	gg.clearResults()
